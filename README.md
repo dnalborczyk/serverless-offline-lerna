@@ -71,28 +71,6 @@ v6.x changelog, breaking changes and migration path from previous releases, see:
 - [License](#license)
 - [Contributing](#contributing)
 
-## Documentation
-
-- [Getting started](#getting-started)
-- [Plugin options](#plugin-options)
-- [Supported event sources](#supported-event-sources)
-- [Usage with invoke](#usage-with-invoke)
-- [Token authorizers](#token-authorizers)
-- [Custom authorizers](#custom-authorizers)
-- [Remote authorizers](#remote-authorizers)
-- [Custom headers](#custom-headers)
-- [Environment variables](#environment-variables)
-- [AWS API Gateway features](#aws-api-gateway-features)
-- [WebSocket](#websocket)
-- [Usage with Webpack](#usage-with-webpack)
-- [Velocity nuances](#velocity-nuances)
-- [Debug process](#debug-process)
-- [Scoped execution](#scoped-execution)
-- [Simulation quality](#simulation-quality)
-- [Credits and inspiration](#credits-and-inspiration)
-- [License](#license)
-- [Contributing](#contributing)
-
 ## Getting started
 
 First, add Serverless Offline to your project:
