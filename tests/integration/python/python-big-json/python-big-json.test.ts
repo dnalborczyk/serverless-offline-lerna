@@ -7,8 +7,8 @@ import { joinUrl, setup, teardown } from '../../_testHelpers/index'
 jest.setTimeout(60000)
 
 describe('Python 3 tests', () => {
-  if (process.platform === 'win32') {
-    it.only("skipping 'Python' tests on Windows for now.", () => {})
+  if (process.platform === 'darwin' || process.platform === 'win32') {
+    it.only("skipping 'Python' tests on macOS and Windows for now.", () => {})
   }
 
   if (!process.env.PYTHON3_DETECTED) {
