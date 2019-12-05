@@ -617,10 +617,6 @@ plugins:
   - serverless-offline # serverless-offline needs to be last in the list
 ```
 
-## Credits and inspiration
-
-This plugin was initially a fork of [Nopik](https://github.com/Nopik/)'s [Serverless-serve](https://github.com/Nopik/serverless-serve).
-
 ## License
 
 MIT
