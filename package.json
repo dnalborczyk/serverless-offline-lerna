@@ -55,7 +55,7 @@
     "chalk": "^3.0.0",
     "cuid": "^2.1.6",
     "execa": "^3.4.0",
-    "hapi-swagger": "^11.0.2",
+    "hapi-swagger": "^11.1.0",
     "js-string-escape": "^1.0.1",
     "jsonpath-plus": "^2.0.0",
     "jsonwebtoken": "^8.5.1",
